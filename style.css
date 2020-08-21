@@ -1,0 +1,48 @@
+.bord{
+    border-width: 0;
+    border-radius: 0;
+    margin-top: 0;
+}
+
+header{
+    background-color: greenyellow;
+}
+
+.gray{
+    color: gray;
+    
+}
+
+.center{
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.center-2{
+    margin-top: 50px;
+}
+
+.center-3{
+    margin-top: 180px;
+    text-align: right;
+}
+
+.space{
+    margin-bottom: 50px;
+}
+
+.banner{
+    background-color: grey;
+    color: white;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+pre {
+    margin-bottom: 0.3em;
+}
+
+.white{
+    color: white;
+}
