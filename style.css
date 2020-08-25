@@ -13,18 +13,22 @@
     
 }
 
-.center{
+.tt-center{
     margin-top: 70px;
     margin-left: 40px;
 }
 
-.center-2{
+.tt-center-2{
     margin-top: 50px;
 }
 
-.center-3{
+.center-3-white{
     margin-top: 180px;
     text-align: right;
+    color: white;
+}
+.media-body{
+    text-align: justify;
 }
 
 .space{
@@ -43,6 +47,26 @@ pre {
     margin-bottom: 0.3em;
 }
 
-.white{
-    color: white;
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: blue;
+}
+
+footer .page-footer {
+    bottom: 0;
+    color: #fff;
+}
+.footer-copyright{
+    background-color: rgba(0,0,0,0.2) !important;
+}
+.unique-color-dark, nav{
+    background-color: #1c2332 !important;
+    color: white !important;
+}
+
+footer.page-footer a {
+    color: #fff;
+    text-decoration: none;
 }
