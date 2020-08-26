@@ -51,7 +51,11 @@ pre {
     color: #fff;
 }
 .navbar-light .navbar-nav .active>.nav-link{
-    color: blue;
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .active>.nav-ite{
+    color: #fff;
 }
 
 footer .page-footer {
@@ -59,10 +63,10 @@ footer .page-footer {
     color: #fff;
 }
 .footer-copyright{
-    background-color: rgba(0,0,0,0.2) !important;
+    background-color: #221001!important;
 }
 .unique-color-dark, nav{
-    background-color: #1c2332 !important;
+    background-color: #3f1f02 !important;
     color: white !important;
 }
 
